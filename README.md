@@ -1,5 +1,3 @@
-# conversational_rag
-
 # Conversational RAG System
 
 A sophisticated Retrieval-Augmented Generation (RAG) system that enables contextual conversation with document-based knowledge using LangChain and OpenAI.
